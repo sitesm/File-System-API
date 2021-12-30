@@ -1,0 +1,12 @@
+.DS_Store
+*.o
+fs3_sim
+assign4-jumbo-workload.txt
+assign4-medium-workload.txt
+assign4-small-workload.txt
+fs3_server_log.txt
+fs3_client_log_small.txt
+First-log-test-output.txt
+fs3_client_log_small.txt
+fs3_small_log.txt
+fs3_client

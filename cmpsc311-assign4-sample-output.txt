@@ -1,0 +1,22 @@
+Wed Nov 17 17:46:12 2021 [OUTPUT] Validation of [assign4-small/sourcedata0F.txt], length 12921 sucessful.
+Wed Nov 17 17:46:12 2021 [OUTPUT] Validation of [assign4-small/sourcedata01.txt], length 343467 sucessful.
+Wed Nov 17 17:46:12 2021 [OUTPUT] Validation of [assign4-small/sourcedata0B.txt], length 135120 sucessful.
+Wed Nov 17 17:46:12 2021 [OUTPUT] Validation of [assign4-small/sourcedata0C.txt], length 346036 sucessful.
+Wed Nov 17 17:46:12 2021 [OUTPUT] Validation of [assign4-small/sourcedata05.txt], length 234077 sucessful.
+Wed Nov 17 17:46:12 2021 [OUTPUT] Validation of [assign4-small/sourcedata07.txt], length 390860 sucessful.
+Wed Nov 17 17:46:12 2021 [OUTPUT] Validation of [assign4-small/sourcedata04.txt], length 111195 sucessful.
+Wed Nov 17 17:46:12 2021 [OUTPUT] Validation of [assign4-small/sourcedata06.txt], length 315794 sucessful.
+Wed Nov 17 17:46:12 2021 [OUTPUT] Validation of [assign4-small/sourcedata03.txt], length 255968 sucessful.
+Wed Nov 17 17:46:12 2021 [OUTPUT] Validation of [assign4-small/sourcedata09.txt], length 261167 sucessful.
+Wed Nov 17 17:46:12 2021 [OUTPUT] Validation of [assign4-small/sourcedata08.txt], length 337318 sucessful.
+Wed Nov 17 17:46:12 2021 [OUTPUT] Validation of [assign4-small/sourcedata0E.txt], length 252158 sucessful.
+Wed Nov 17 17:46:12 2021 [OUTPUT] Validation of [assign4-small/sourcedata0A.txt], length 200268 sucessful.
+Wed Nov 17 17:46:12 2021 [OUTPUT] Validation of [assign4-small/sourcedata02.txt], length 114134 sucessful.
+Wed Nov 17 17:46:12 2021 [OUTPUT] Validation of [assign4-small/sourcedata0D.txt], length 72842 sucessful.
+Wed Nov 17 17:46:12 2021 [OUTPUT] ** FS3 cache Metrics **
+Wed Nov 17 17:46:12 2021 [OUTPUT] Cache inserts    [   155891]
+Wed Nov 17 17:46:12 2021 [OUTPUT] Cache gets       [   431863]
+Wed Nov 17 17:46:12 2021 [OUTPUT] Cache hits       [   279283]
+Wed Nov 17 17:46:12 2021 [OUTPUT] Cache misses     [   152580]
+Wed Nov 17 17:46:12 2021 [OUTPUT] Cache hit ratio  [%64.67]
+Wed Nov 17 17:46:12 2021 [OUTPUT] FS3 simulation: all tests successful!!!.
